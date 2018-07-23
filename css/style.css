@@ -1,0 +1,13 @@
+header{
+  background-color: #FF1859;
+  color: white;
+}
+
+body{
+  font-family: sans-serif, helvetica, Arial;
+}
+
+p{
+  display: inline-block;
+  width: 400px;
+}

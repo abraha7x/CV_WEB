@@ -1,13 +1,26 @@
 header{
   background-color: #FF1859;
   color: white;
+  text-align: center;
 }
 
 body{
   font-family: sans-serif, helvetica, Arial;
 }
 
+h1{
+  display: inline-block;
+  width: 400px;
+  font-weight: normal;
+}
+
 p{
   display: inline-block;
   width: 400px;
+  font-weight: normal;
+}
+
+#info{
+  background-color: #E8C673;
+  text-align: center;
 }

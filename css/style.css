@@ -2,10 +2,12 @@ header{
   background-color: #FF1859;
   color: white;
   text-align: center;
+  padding: 16px;
 }
 
 body{
   font-family: sans-serif, helvetica, Arial;
+  margin: 0;
 }
 
 h1{
@@ -23,4 +25,27 @@ p{
 #info{
   background-color: #E8C673;
   text-align: center;
+  padding: 10px;
+}
+
+#sec1{
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3{
+  font-size: 36px;
+  font-weight: 700;
+}
+
+dt{
+  font-size: 22px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  margin-top: 36px;
+}
+
+dd{
+  margin: 0;
 }
